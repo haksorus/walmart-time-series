@@ -1,5 +1,8 @@
 # Walmart stock price prediction (LSTM vs GRU)
-![image](https://user-images.githubusercontent.com/69139386/185232355-3bcba7b5-0d82-48e3-b25e-f534aadd102b.png)
+
+<p align="center">
+ <img width="800" alt="image" src="https://user-images.githubusercontent.com/69139386/185232355-3bcba7b5-0d82-48e3-b25e-f534aadd102b.png">
+</p> 
 
 
 ## About work
@@ -19,8 +22,9 @@ If you want to use it, you can find my dataset [here](https://www.kaggle.com/dat
 
 ## LSTM vs GRU
 
-<img width="914" alt="image" src="https://user-images.githubusercontent.com/69139386/185227103-55fa9681-6836-413e-bde0-42ae55feb144.png">
-
+<p align="center">
+ <img width="800" alt="image" src="https://user-images.githubusercontent.com/69139386/185227103-55fa9681-6836-413e-bde0-42ae55feb144.png">
+</p> 
 
 For each of this units, I've trained a simple RNN using **MAE loss** and **Adam optimizer** in **50 epochs**
 
