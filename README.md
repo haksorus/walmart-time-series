@@ -36,9 +36,14 @@ In this case, **LSTM** works better (**MAE = 1.42**) than **GRU** (**MAE = 2.49*
 
 ### LSTM inference:
 
-![image](https://user-images.githubusercontent.com/69139386/185231491-edf27cd4-35fe-4ed7-9d7b-7b4040b9c65a.png)
+<p align="center">
+ <img alt="image" src="https://user-images.githubusercontent.com/69139386/185231491-edf27cd4-35fe-4ed7-9d7b-7b4040b9c65a.png">
+</p> 
+
 
 ### GRU inference:
 
-![image](https://user-images.githubusercontent.com/69139386/185231713-15e5723b-748a-4f21-9358-c839814ad510.png)
+<p align="center">
+ <img alt="image" src="https://user-images.githubusercontent.com/69139386/185231713-15e5723b-748a-4f21-9358-c839814ad510.png">
+</p> 
 
